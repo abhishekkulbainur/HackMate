@@ -678,7 +678,7 @@ class _PersakaPoweredByCard extends StatelessWidget {
             ),
             child: const Center(
               child: Text(
-                'P',
+                'H',
                 style: TextStyle(
                   color: ParticipantPalette.secondary,
                   fontSize: 32,
@@ -689,22 +689,23 @@ class _PersakaPoweredByCard extends StatelessWidget {
           ),
           const SizedBox(height: 14),
           const Text(
-            'PERSATUAN MAHASISWA SAINS KOMPUTER',
+            'HACKMATE',
             textAlign: TextAlign.center,
             style: TextStyle(
               color: ParticipantPalette.textPrimary,
-              fontSize: 13,
+              fontSize: 14,
               fontWeight: FontWeight.w800,
               height: 1.35,
+              letterSpacing: 0.5,
             ),
           ),
           const SizedBox(height: 4),
           const Text(
-            'UNIVERSITI TEKNOLOGI MALAYSIA (PERSAKA)',
+            'THE ALL-IN-ONE HACKATHON PLATFORM',
             textAlign: TextAlign.center,
             style: TextStyle(
               color: ParticipantPalette.textSecondary,
-              fontSize: 12,
+              fontSize: 11,
               fontWeight: FontWeight.w700,
               height: 1.35,
             ),

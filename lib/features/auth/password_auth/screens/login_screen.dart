@@ -162,7 +162,7 @@ class _LoginScreenState extends State<LoginScreen> {
               AuthHeader(
                 title: 'Login',
                 subtitle: 'Welcome Back!',
-                description: 'Sign in to Hackathon OS',
+                description: 'Sign in to HackMate',
               ),
 
               const SizedBox(height: 20),

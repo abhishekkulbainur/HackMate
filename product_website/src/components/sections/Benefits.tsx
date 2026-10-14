@@ -23,7 +23,7 @@ export function Benefits() {
         <SectionHeading
           eyebrow="Why it matters"
           title={<span id="benefits-heading">Benefits people actually feel</span>}
-          description="Beyond the feature list, here's the real value Persaka Hackathon delivers to everyone involved."
+          description="Beyond the feature list, here's the real value HackMate delivers to everyone involved."
         />
         <Reveal className="mt-12">
           <HoverEffect items={items} />

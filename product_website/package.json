@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Product promotional website for the Persaka Hackathon App (Flutter + Firebase).",
+  "description": "Product promotional website for HackMate (Flutter + Firebase).",
   "author": "Abhishek Kulbainur",
   "scripts": {
     "dev": "vite",

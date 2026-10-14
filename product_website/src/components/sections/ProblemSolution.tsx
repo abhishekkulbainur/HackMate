@@ -18,7 +18,7 @@ export function ProblemSolution() {
               Running a hackathon shouldn't feel like herding spreadsheets
             </span>
           }
-          description="Organisers and participants juggle too many disconnected tools. Persaka Hackathon replaces that chaos with one focused mobile workflow."
+          description="Organisers and participants juggle too many disconnected tools. HackMate replaces that chaos with one focused mobile workflow."
         />
 
         <div className="mt-14 grid gap-6 lg:grid-cols-2">
@@ -55,7 +55,7 @@ export function ProblemSolution() {
           >
             <h3 className="flex items-center gap-2 font-heading text-lg font-semibold text-ink">
               <span className="inline-block h-2.5 w-2.5 rounded-full bg-persaka-purple" aria-hidden="true" />
-              How Persaka Hackathon helps
+              How HackMate helps
             </h3>
             <ul className="mt-6 space-y-5">
               {solutions.map((s) => {

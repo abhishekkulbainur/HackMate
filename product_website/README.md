@@ -1,12 +1,12 @@
-# Persaka Hackathon App — Product Website
+# HackMate — Product Website
 
-A fully static, responsive product promotional website for the **Persaka Hackathon App**
+A fully static, responsive product promotional website for **HackMate**
 (a Flutter + Firebase hackathon management app maintained by **Abhishek Kulbainur**).
 
 Built with **React + Vite + TypeScript**, styled with **Tailwind CSS**, and enhanced
 with a few hand-picked **Aceternity UI** components. No backend required.
 
-🔗 **Live (after deploy):** `https://<your-username>.github.io/persaka_hackathon_app/`
+🔗 **Live (after deploy):** `https://abhishekkulbainur.github.io/HackMate/`
 
 ---
 

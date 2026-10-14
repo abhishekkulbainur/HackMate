@@ -1,11 +1,11 @@
 {
-    "name": "persaka_hackathon_app",
-    "short_name": "persaka_hackathon_app",
+    "name": "HackMate",
+    "short_name": "HackMate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Persaka Hackathon OS - End-to-end hackathon management application.",
+    "description": "HackMate - End-to-end hackathon management application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

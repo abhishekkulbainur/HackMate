@@ -1,9 +1,9 @@
 class AppStrings {
   // 🏷️ App
-  static const String appName = "Hackathon OS";
+  static const String appName = "HackMate";
 
   // 👋 Welcome
-  static const String welcomeTitle = "Hackathon OS";
+  static const String welcomeTitle = "HackMate";
   static const String welcomeSubtitle =
       "The all-in-one platform for university hackathons";
 

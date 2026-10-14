@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'app_colors.dart';
 
 class AppTextStyles {
-  // 🏆 Title (e.g. Hackathon OS)
+  // 🏆 Title (e.g. HackMate)
   static const TextStyle title = TextStyle(
     fontSize: 32,
     fontWeight: FontWeight.bold,

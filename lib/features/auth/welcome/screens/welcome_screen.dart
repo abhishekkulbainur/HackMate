@@ -27,7 +27,7 @@ class WelcomeScreen extends StatelessWidget {
                 const SizedBox(height: 20),
 
                 const Text(
-                  "Hackathon OS",
+                  "HackMate",
                   style: TextStyle(
                     fontSize: 32,
                     color: Colors.white,

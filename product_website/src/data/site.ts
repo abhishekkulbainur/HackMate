@@ -34,17 +34,16 @@ import type {
 } from "./types";
 
 export const product = {
-  name: "Persaka Hackathon App",
-  shortName: "Persaka Hackathon",
+  name: "HackMate",
+  shortName: "HackMate",
   logo,
   productPhone,
   tagline: "Run your whole hackathon from one app.",
   // Why people should use it — value, not just features.
   valueProposition:
-    "Persaka Hackathon brings teams, registration, submissions, judging, and live results into a single mobile app — so participants stay focused on building and organisers stop drowning in spreadsheets and group chats.",
+    "HackMate brings teams, registration, submissions, judging, and live results into a single mobile app — so participants stay focused on building and organisers stop drowning in spreadsheets and group chats.",
   platform: "Flutter (Android & iOS) with a Firebase backend",
-  // TODO (Abhishek Kulbainur): Update with your GitHub repository URL
-  repository: "https://github.com/your-username/persaka_hackathon_app",
+  repository: "https://github.com/abhishekkulbainur/HackMate",
   team: {
     name: "Abhishek Kulbainur",
   },
@@ -169,7 +168,7 @@ export const screenshots: Screenshot[] = [
     title: "Organiser Dashboard",
     caption:
       "A live overview of participants, teams, submissions, and judges with quick actions for the day.",
-    alt: "Persaka Hackathon App organiser dashboard showing live participant, team, submission, and judge counts inside a phone mock-up.",
+    alt: "HackMate organiser dashboard showing live participant, team, submission, and judge counts inside a phone mock-up.",
     image: organiserDashboard,
     icon: Gauge,
   },
@@ -177,7 +176,7 @@ export const screenshots: Screenshot[] = [
     title: "Teams & Codes",
     caption:
       "Create a team to generate a shareable code, or join an existing team in one tap.",
-    alt: "Persaka Hackathon App team directory showing team codes, members, and ownership details.",
+    alt: "HackMate team directory showing team codes, members, and ownership details.",
     image: teamCode,
     icon: Users,
   },
@@ -185,7 +184,7 @@ export const screenshots: Screenshot[] = [
     title: "Submission Hub",
     caption:
       "Leaders submit repository and demo-video links with deadlines enforced automatically.",
-    alt: "Persaka Hackathon App submission hub screen for leader teams and joined hackathons.",
+    alt: "HackMate submission hub screen for leader teams and joined hackathons.",
     image: submissionHub,
     icon: ScrollText,
   },
@@ -193,7 +192,7 @@ export const screenshots: Screenshot[] = [
     title: "Judging & Rubric",
     caption:
       "Judges score assigned teams against shared rubric criteria, with optional anonymity.",
-    alt: "Persaka Hackathon App team scoring screen with dynamic rubric sliders and judge comments.",
+    alt: "HackMate team scoring screen with dynamic rubric sliders and judge comments.",
     image: teamScoring,
     icon: ClipboardCheck,
   },
@@ -201,7 +200,7 @@ export const screenshots: Screenshot[] = [
     title: "Live Leaderboard",
     caption:
       "Published standings and final results keep every team up to date in real time.",
-    alt: "Persaka Hackathon App final results screen with podium and published standings.",
+    alt: "HackMate final results screen with podium and published standings.",
     image: leaderboard,
     icon: Trophy,
   },
@@ -269,12 +268,12 @@ export const contactLinks: ContactLink[] = [
   {
     label: "Email us",
     value: contactEmail,
-    href: `mailto:${contactEmail}?subject=Persaka%20Hackathon%20App%20Enquiry`,
+    href: `mailto:${contactEmail}?subject=HackMate%20Enquiry`,
     icon: Mail,
   },
   {
     label: "GitHub repository",
-    value: "your-username/persaka_hackathon_app",
+    value: "abhishekkulbainur/HackMate",
     href: product.repository,
     icon: Github,
   },

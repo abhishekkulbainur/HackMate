@@ -35,7 +35,7 @@ export function Contact() {
 
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <a
-                href={`mailto:${contactEmail}?subject=Persaka%20Hackathon%20App%20Enquiry`}
+                href={`mailto:${contactEmail}?subject=HackMate%20Enquiry`}
                 className="inline-flex w-full items-center justify-center gap-2 rounded-2xl bg-white px-6 py-3 text-sm font-semibold text-persaka-purple shadow-soft transition-transform duration-200 hover:-translate-y-0.5 sm:w-auto sm:text-base"
               >
                 Email us

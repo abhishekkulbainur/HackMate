@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Hackathon OS',
+      title: 'HackMate',
 
       theme: AppTheme.light,
       builder: (context, child) {
@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
 
   The following MyHomePage counter app was removed because:
   - It is only a Flutter demo
-  - It is not part of your Hackathon OS system
+  - It is not part of your HackMate system
   - Your app now uses AuthWrapper + Firebase authentication flow
 
   Original behavior:

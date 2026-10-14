@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "Abhishek Kulbainur" "\0"
-            VALUE "FileDescription", "persaka_hackathon_app" "\0"
+            VALUE "FileDescription", "HackMate" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "persaka_hackathon_app" "\0"
+            VALUE "InternalName", "HackMate" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 Abhishek Kulbainur. All rights reserved." "\0"
-            VALUE "OriginalFilename", "persaka_hackathon_app.exe" "\0"
-            VALUE "ProductName", "persaka_hackathon_app" "\0"
+            VALUE "OriginalFilename", "HackMate.exe" "\0"
+            VALUE "ProductName", "HackMate" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

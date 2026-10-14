@@ -1,6 +1,6 @@
-# Persaka Hackathon OS
+# HackMate
 <p align="center">
-  <img src="./assets/images/hackathon.png" alt="Persaka Hackathon OS cover" width="180" />
+  <img src="./assets/images/hackathon.png" alt="HackMate cover" width="180" />
 </p>
 <p align="center">
   A Flutter + Firebase hackathon management app for participants, judges, and organisers.
@@ -40,7 +40,7 @@
 
 ## Overview
 
-Persaka Hackathon OS is a Flutter application that keeps most product logic in the client and uses Firebase as the shared backend. There is no separate custom API server in this repository. Instead, the app relies on:
+HackMate is a Flutter application that keeps most product logic in the client and uses Firebase as the shared backend. There is no separate custom API server in this repository. Instead, the app relies on:
 
 - Firebase Authentication for account creation, login session handling, email verification, password reset, and Google sign-in.
 - Cloud Firestore for user roles, team records, hackathons, submissions, judge scoring, schedule data, announcements, and published results.
